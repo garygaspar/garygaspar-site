@@ -8,7 +8,7 @@ export default function Hero() {
         Bonjour, je suis
       </p>
       <h1 className="text-6xl md:text-8xl font-bold tracking-tight text-foreground mb-6">
-        Gary Gaspar
+        Mr. Gary Gaspar
       </h1>
       <p className="text-xl md:text-2xl text-muted max-w-2xl mb-10 leading-relaxed">
         Développeur passionné, je construis des expériences web modernes,
